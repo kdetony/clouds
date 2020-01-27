@@ -68,3 +68,42 @@ No vamos a trabajar con datos/volumenes independientes, esta opcion la dejamos t
 2. Terminamos el proceso con : **Create Droplet**, el tema de backups tiene un costo, lo dejaremos como indica la pantalla sgt.
 
 ![DigitalOCean](https://github.com/kdetony/clouds/blob/master/images/do11.png "Digital Ocean")
+
+3. Veremos esa pantalla, la cual nos muestra el proceso de creación de nuestro droplet.
+
+![DigitalOCean](https://github.com/kdetony/clouds/blob/master/images/do12.png "Digital Ocean")
+
+
+Conectandonos a nuestro Droplet
+=================================
+
+1. Vamos a ver esta pantalla, luego de terminar el proceso de instalacion del droplet:
+
+![DigitalOCean](https://github.com/kdetony/clouds/blob/master/images/do13.png "Digital Ocean")
+
+2. Como podemos visualizar, ya contamos con una **ip publica**, con la cual vamos a conectarnos a ella usando:
+
+En Windows: 
+* Cualquier cliente SSH, como por ejm: putty, xshell, bash from windows, etc.
+
+En Linux/Mac:
+* Abrimos la consola y realizamos el proceso de coneccion via SSH.
+
+### OBS.
+La constraseña de acceso es la que nos envciaron por correo ojo !!!! 
+
+3. En esta parte, debemos colocar **2 veces** la contraseña que tenemos en nuestro correo
+
+![DigitalOCean](https://github.com/kdetony/clouds/blob/master/images/do14.png "Digital Ocean")
+
+
+Linode 
+===========
+
+## Recomandaciones
+* Tener cuenta en gmail ( de preferencia )
+* Tarjeta de credito/debito ( $5 minimo ) 
+* OS: Windows/Linux/Mac
+
+
+
