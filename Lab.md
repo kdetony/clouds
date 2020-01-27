@@ -1,5 +1,5 @@
 Digital Ocean 
-##################
+###############
 
 ## Recomandaciones
 * Tener cuenta en gmail ( de preferencia )
