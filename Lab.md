@@ -15,3 +15,8 @@ Para empezar a trabajar con Digital Ocean, vamos a realizar los siguientes pasos
 
 2. Ahora, en esta opcion, de preferencia, vamos a escoger **gmail** 
 
+![DigitalOCean](https://github.com/kdetony/clouds/blob/master/images/do1.png "Digital Ocean")
+
+3. Continuamos con el proceso de registro :) 
+
+4. Nos logeamos en la plataforma.
