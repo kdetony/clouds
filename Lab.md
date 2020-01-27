@@ -105,5 +105,53 @@ Linode
 * Tarjeta de credito/debito ( $5 minimo ) 
 * OS: Windows/Linux/Mac
 
+Para empezar a trabajar con Linode, vamos a realizar los siguientes pasos: 
+
+1. Hacemos clic en este [Linode](https://www.linode.com/?r=c3f67a0321c98ae2eaa83be7238d678896b6b990 "Linode")
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linde.png "Linode")
+
+2. Ahora, en esta opcion, completamos nuestro datos para nuestra cuenta
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linode1.png "Linode")
+
+3. Luego, nos pedira confirmar nuestro correo para continuar con la instalacion
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linode2.png "Linode")
+
+4. En nuestro correo electronico de registro, veremos este mensaje, al cual damos **confirm**
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linode3.png "Linode")
+
+5. Ahora, en Linode, vamos a completar el registro :)
 
 
+Creacion de Instancia Linode
+============================== 
+
+1. Nos ubicamos en esta seccion:
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linode4.png "Linode")
+
+2. Escogemos la opcion linode
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linode5.png "Linode")
+
+3. Ahora escogemos: OS: Centos, Version: 8.1, Location: Dallas
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linode6.png "Linode")
+
+4. Aqui, vamoa a escoger las caracteristicas fisicas para nuestra instancia:
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linode7.png "Linode")
+
+5. Y ya para finalizar, vamos a complear los datos para nuestra instancia: hostname
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linode8.png "Linode")
+
+### OBS.
+Tenemos la opcion tambien de generar llaves SSH para que sean asignadas a nuestra instancia ojo ! 
+
+6. Hacemos clic en **CREATE**
+
+![Linode](https://github.com/kdetony/clouds/blob/master/images/linode9.png "Linode")
