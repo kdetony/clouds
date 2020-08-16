@@ -155,3 +155,7 @@ Tenemos la opcion tambien de generar llaves SSH para que sean asignadas a nuestr
 6. Hacemos clic en **CREATE**
 
 ![Linode](https://github.com/kdetony/clouds/blob/master/images/linode9.png "Linode")
+
+Tambien les recomiendo SSDNodes:
+
+![SSDnode](https://www.ssdnodes.com/manage/aff.php?aff=1075 "SSDnode") 
