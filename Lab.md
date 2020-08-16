@@ -158,4 +158,4 @@ Tenemos la opcion tambien de generar llaves SSH para que sean asignadas a nuestr
 
 Tambien les recomiendo SSDNodes:
 
-![SSDnode](https://www.ssdnodes.com/manage/aff.php?aff=1075 "SSDnode") 
+[Link](https://www.ssdnodes.com/manage/aff.php?aff=1075 "SSDnode") 
